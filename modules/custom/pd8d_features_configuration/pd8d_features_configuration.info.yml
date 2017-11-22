@@ -1,0 +1,8 @@
+name: 'Features Configuration'
+description: 'Configures the site to manage feature creation for input into the pd8d distribution.'
+type: module
+core: 8.x
+dependencies:
+  - features
+version: 8.x-1.0
+package: pd8d
