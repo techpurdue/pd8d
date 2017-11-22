@@ -1,0 +1,9 @@
+name: 'admin tools'
+description: 'Basic administrator tools including toolbar updates.'
+type: module
+core: 8.x
+version: 8.x-1.0
+package: pd8d
+dependencies:
+  - admin_toolbar
+	
