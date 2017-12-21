@@ -7,3 +7,4 @@ package: pd8d
 dependencies:
   - admin_toolbar
   - admin_toolbar_tools
+  - module_filter
